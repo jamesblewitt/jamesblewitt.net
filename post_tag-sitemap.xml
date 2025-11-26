@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://jamesblewitt.github.io/jamesblewitt.net/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/tag/architecture/</loc>
+		<loc>/tag/architecture/</loc>
 		<lastmod>2024-07-03T14:07:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/tag/c4-model/</loc>
+		<loc>/tag/c4-model/</loc>
 		<lastmod>2024-07-03T14:07:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/tag/capability-modelling/</loc>
+		<loc>/tag/capability-modelling/</loc>
 		<lastmod>2024-09-18T19:22:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/tag/diagrams/</loc>
+		<loc>/tag/diagrams/</loc>
 		<lastmod>2024-07-03T14:07:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/tag/enterprise-architecture/</loc>
+		<loc>/tag/enterprise-architecture/</loc>
 		<lastmod>2024-09-18T19:22:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/tag/technical-debt/</loc>
+		<loc>/tag/technical-debt/</loc>
 		<lastmod>2024-07-16T08:26:49+00:00</lastmod>
 	</url>
 </urlset>

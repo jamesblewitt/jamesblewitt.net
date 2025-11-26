@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://jamesblewitt.github.io/jamesblewitt.net/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/post-sitemap.xml</loc>
+		<loc>/post-sitemap.xml</loc>
 		<lastmod>2024-10-13T15:12:49+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/page-sitemap.xml</loc>
+		<loc>/page-sitemap.xml</loc>
 		<lastmod>2024-09-20T20:27:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/category-sitemap.xml</loc>
+		<loc>/category-sitemap.xml</loc>
 		<lastmod>2024-10-13T15:12:49+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/post_tag-sitemap.xml</loc>
+		<loc>/post_tag-sitemap.xml</loc>
 		<lastmod>2024-09-18T19:22:52+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://jamesblewitt.github.io/jamesblewitt.net/author-sitemap.xml</loc>
+		<loc>/author-sitemap.xml</loc>
 		<lastmod>2024-06-25T21:34:46+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
