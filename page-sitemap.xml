@@ -1,38 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/jamesblewitt.net/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>/jamesblewitt.net/</loc>
 		<lastmod>2024-07-03T19:03:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/sample-page/</loc>
+		<loc>/jamesblewitt.net/sample-page/</loc>
 		<lastmod>2024-06-22T16:38:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/shop/</loc>
+		<loc>/jamesblewitt.net/shop/</loc>
 		<lastmod>2024-06-22T17:11:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/cart/</loc>
+		<loc>/jamesblewitt.net/cart/</loc>
 		<lastmod>2024-06-22T17:11:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/checkout/</loc>
+		<loc>/jamesblewitt.net/checkout/</loc>
 		<lastmod>2024-06-22T17:11:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/my-account/</loc>
+		<loc>/jamesblewitt.net/my-account/</loc>
 		<lastmod>2024-06-22T17:11:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/home/</loc>
+		<loc>/jamesblewitt.net/home/</loc>
 		<lastmod>2024-06-23T11:19:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/about/</loc>
+		<loc>/jamesblewitt.net/about/</loc>
 		<lastmod>2024-09-20T20:27:42+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/AboutMe-edited.jpeg</image:loc>
+			<image:loc>/jamesblewitt.net/wp-content/uploads/2024/06/AboutMe-edited.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
